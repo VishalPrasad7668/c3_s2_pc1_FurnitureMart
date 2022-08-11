@@ -1,0 +1,27 @@
+Enter FurnitureCode :
+12345
+Enter Furniture Type: Tables, Chairs, Cupboards, Stools
+chairs
+Enter Grade Of Furniture : grade 1, grade 2, grade 3
+grade 2
+Enter Color : Red, Blue, Green
+red
+Enter Furniture Usage : indoor, outdoor
+indoor
+Price of item :
+500
+No Discount
+-------------------------------------------------------------------------------------------------------
+Enter FurnitureCode :
+54321
+Enter Furniture Type: Tables, Chairs, Cupboards, Stools
+Tables
+Enter Grade Of Furniture : grade 1, grade 2, grade 3
+grade 2
+Enter Color : Red, Blue, Green
+Blue
+Enter Furniture Usage : indoor, outdoor
+outdoor
+Price of item :
+600
+Price of Outdoor item after discount : 630.0
